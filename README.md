@@ -81,12 +81,12 @@ Engineer_t me = {
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/TuanLinh05/UWB-For-Drone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TuanLinh05&repo=UWB-For-Drone&theme=tokyonight&hide_border=true" width="49%"/></a>
   <a href="https://github.com/TuanLinh05/DWM1001_UWB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TuanLinh05&repo=DWM1001_UWB&theme=tokyonight&hide_border=true" width="49%"/></a>
-  <a href="https://github.com/TuanLinh05/ICM20602_QMC5883L_BMP280_STM32F429"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TuanLinh05&repo=ICM20602_QMC5883L_BMP280_STM32F429&theme=tokyonight&hide_border=true" width="49%"/></a>
-  <a href="https://github.com/TuanLinh05/CAN-bus-STM32"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TuanLinh05&repo=CAN-bus-STM32&theme=tokyonight&hide_border=true" width="49%"/></a>
-  <a href="https://github.com/TuanLinh05/RFID_Door_Lock"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TuanLinh05&repo=RFID_Door_Lock&theme=tokyonight&hide_border=true" width="49%"/></a>
   <a href="https://github.com/TuanLinh05/Quadruped-robot-12DOF"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TuanLinh05&repo=Quadruped-robot-12DOF&theme=tokyonight&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/TuanLinh05/STM32-CAN-Network"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TuanLinh05&repo=STM32-CAN-Network&theme=tokyonight&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/TuanLinh05/PIF_RYA_2025_Hardware"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TuanLinh05&repo=PIF_RYA_2025_Hardware&theme=tokyonight&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/TuanLinh05/RFID_Door_Lock"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TuanLinh05&repo=RFID_Door_Lock&theme=tokyonight&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/TuanLinh05/PX4-ROS2-Ground-Control"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TuanLinh05&repo=PX4-ROS2-Ground-Control&theme=tokyonight&hide_border=true" width="49%"/></a>
 </p>
 
 ---
