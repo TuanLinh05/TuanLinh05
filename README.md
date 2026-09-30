@@ -103,10 +103,6 @@ Engineer_t me = {
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TuanLinh05&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TuanLinh05/TuanLinh05/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TuanLinh05/TuanLinh05/output/github-contribution-grid-snake.svg"/>
