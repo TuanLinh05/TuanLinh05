@@ -1,69 +1,122 @@
-### Hi everyone 👋
-
-My full name is `Vu Tuan Linh`.
-
-- 🎓 I'm studying at HCM University of Technology (HCMUT).
-- 🔌 I'm interested in Embedded Systems, PCB Design and Robotics.
-
-<h4 align="left">Languages:</h4>
-
-<p>
-  <img src="./Icons/c-original.svg"         width="35" height="35" alt="C"/>
-  <img src="./Icons/cplusplus-original.svg" width="35" height="35" alt="C++"/>
-  <img src="./Icons/python-original.svg"    width="35" height="35" alt="Python"/>
-  <img src="./Icons/matlab-original.svg"    width="35" height="35" alt="MATLAB"/>
-</p>
-
-<h4 align="left">Tools:</h4>
-
-<p>
-  <img src="./Icons/vscode-original.svg"  width="35" height="35" alt="VS Code"/>
-  <img src="./Icons/stm32cube.png"        width="35" height="35" alt="STM32Cube"/>
-  <img src="./Icons/free_rtos.png"        width="35" height="35" alt="FreeRTOS"/>
-  <img src="./Icons/ros.svg"              width="35" height="35" alt="ROS 2"/>
-  <img src="./Icons/ubuntu-original.svg"  width="35" height="35" alt="Ubuntu"/>
-  <img src="./Icons/git-original.svg"     width="35" height="35" alt="Git"/>
-  <img src="./Icons/Github.ico"           width="35" height="35" alt="GitHub"/>
-  <img src="./Icons/altium_designer.png"  width="35" height="35" alt="Altium Designer"/>
-  <img src="./Icons/kicad.png"            width="35" height="35" alt="KiCad"/>
-</p>
-
-<h4 align="left">Featured Projects:</h4>
-
-| Project | Description |
-| :-- | :-- |
-| [UWB-For-Drone](https://github.com/TuanLinh05/UWB-For-Drone) | UWB-based positioning for drones |
-| [DWM1001_UWB](https://github.com/TuanLinh05/DWM1001_UWB) · [DW1000_DISTANCE](https://github.com/TuanLinh05/DW1000_DISTANCE) | UWB ranging with Decawave DWM1001 / DW1000 |
-| [ICM20602_QMC5883L_BMP280_STM32F429](https://github.com/TuanLinh05/ICM20602_QMC5883L_BMP280_STM32F429) | IMU, magnetometer and barometer drivers on STM32F429 |
-| [CAN-bus-STM32](https://github.com/TuanLinh05/CAN-bus-STM32) | CAN bus communication on STM32 |
-| [RFID_Door_Lock](https://github.com/TuanLinh05/RFID_Door_Lock) | RFID door lock – Embedded System Design project, HCMUT |
-| [Quadruped-robot-12DOF](https://github.com/TuanLinh05/Quadruped-robot-12DOF) · [ROS2_Webots_DOG](https://github.com/TuanLinh05/ROS2_Webots_DOG) | 12-DOF quadruped robot simulated in Webots / ROS 2 |
-| [PIF_RYA_2025_Hardware](https://github.com/TuanLinh05/PIF_RYA_2025_Hardware) | H-bridge using IR2104 and MOSFETs |
-
-<h4 align="left">GitHub Stats:</h4>
-
+<!-- ================= HEADER ================= -->
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TuanLinh05&theme=github_dark"
-    width="700"
-    alt="TuanLinh05 GitHub Profile Statistics"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vu%20Tuan%20Linh&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Embedded%20Systems%20%E2%80%A2%20PCB%20Design%20%E2%80%A2%20Robotics&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Vu Tuan Linh"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TuanLinh05&theme=github_dark"
-    height="165"
-    alt="Most Commit Language"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TuanLinh05&theme=github_dark"
-    height="165"
-    alt="Stats"
-  />
+  <a href="https://github.com/TuanLinh05">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=560&lines=Hi+everyone+%F0%9F%91%8B+I'm+Vu+Tuan+Linh;Student+%40+HCM+University+of+Technology;Embedded+Systems+%7C+STM32+%7C+FreeRTOS;PCB+Design+%7C+Altium+%7C+KiCad;Robotics+%7C+ROS+2+%7C+Webots" alt="Typing SVG"/>
+  </a>
 </p>
 
-<h4 align="left">Organizations:</h4>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TuanLinh05&label=Profile%20views&color=36bcf7&style=flat" alt="Profile views"/>
+  <a href="https://github.com/TuanLinh05?tab=followers"><img src="https://img.shields.io/github/followers/TuanLinh05?label=Followers&style=flat&color=36bcf7&logo=github" alt="Followers"/></a>
+  <img src="https://img.shields.io/badge/HCMUT-Student-0a66c2?style=flat" alt="HCMUT"/>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+```c
+typedef struct {
+    const char *name;
+    const char *university;
+    const char *interests[3];
+} Engineer_t;
+
+Engineer_t me = {
+    .name       = "Vu Tuan Linh",
+    .university = "HCM University of Technology (HCMUT)",
+    .interests  = { "Embedded Systems", "PCB Design", "Robotics" },
+};
+```
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,matlab,ros,ubuntu,linux,vscode,git,github&theme=dark&perline=10" alt="Skills"/>
+</p>
+
+<table align="center">
+  <tr>
+    <td><b>🔌 Embedded</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
+      <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32CubeIDE"/>
+      <img src="https://img.shields.io/badge/FreeRTOS-2E7D32?style=for-the-badge" alt="FreeRTOS"/>
+      <img src="https://img.shields.io/badge/CAN%20%7C%20UART%20%7C%20SPI%20%7C%20I2C-455A64?style=for-the-badge" alt="Protocols"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>📡 Sensors & RF</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/UWB%20DW1000%20%2F%20DWM1001-6A1B9A?style=for-the-badge" alt="UWB"/>
+      <img src="https://img.shields.io/badge/IMU%20%7C%20Baro%20%7C%20Mag-6A1B9A?style=for-the-badge" alt="IMU"/>
+      <img src="https://img.shields.io/badge/RFID-6A1B9A?style=for-the-badge" alt="RFID"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🧩 PCB Design</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge" alt="Altium Designer"/>
+      <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🤖 Robotics & Sim</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2"/>
+      <img src="https://img.shields.io/badge/Webots-C62828?style=for-the-badge" alt="Webots"/>
+      <img src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge" alt="MATLAB"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/TuanLinh05/UWB-For-Drone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TuanLinh05&repo=UWB-For-Drone&theme=tokyonight&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/TuanLinh05/DWM1001_UWB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TuanLinh05&repo=DWM1001_UWB&theme=tokyonight&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/TuanLinh05/ICM20602_QMC5883L_BMP280_STM32F429"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TuanLinh05&repo=ICM20602_QMC5883L_BMP280_STM32F429&theme=tokyonight&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/TuanLinh05/CAN-bus-STM32"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TuanLinh05&repo=CAN-bus-STM32&theme=tokyonight&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/TuanLinh05/RFID_Door_Lock"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TuanLinh05&repo=RFID_Door_Lock&theme=tokyonight&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/TuanLinh05/Quadruped-robot-12DOF"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TuanLinh05&repo=Quadruped-robot-12DOF&theme=tokyonight&hide_border=true" width="49%"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TuanLinh05&theme=tokyonight" width="100%" alt="Profile details"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TuanLinh05&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&count_private=true" height="170" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanLinh05&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=makefile,typescript,assembly,cmake,html,css,javascript" height="170" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TuanLinh05&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TuanLinh05/TuanLinh05/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TuanLinh05/TuanLinh05/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/TuanLinh05/TuanLinh05/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+  </picture>
+</p>
+
+---
+
+### 🏛️ Organizations
 
 <table align="center">
   <tr>
@@ -79,3 +132,8 @@ My full name is `Vu Tuan Linh`.
     </td>
   </tr>
 </table>
+
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
+</p>
