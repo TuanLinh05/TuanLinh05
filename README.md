@@ -4,7 +4,6 @@ My full name is `Vu Tuan Linh`.
 
 - 🎓 I'm studying at HCM University of Technology (HCMUT).
 - 🔌 I'm interested in Embedded Systems, PCB Design and Robotics.
-- 🚁 I'm currently working on UWB positioning for drones and STM32-based sensor projects.
 
 <h4 align="left">Languages:</h4>
 
