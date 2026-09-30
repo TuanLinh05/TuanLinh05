@@ -90,7 +90,7 @@ Engineer_t me = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TuanLinh05&theme=tokyonight&v=3" width="100%" alt="Profile details"/>
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile details"/>
 </p>
 
 <p align="center">
