@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TuanLinh05&label=Profile%20views&color=36bcf7&style=flat" alt="Profile views"/>
   <a href="https://github.com/TuanLinh05?tab=followers"><img src="https://img.shields.io/github/followers/TuanLinh05?label=Followers&style=flat&color=36bcf7&logo=github" alt="Followers"/></a>
   <img src="https://img.shields.io/badge/HCMUT-Student-0a66c2?style=flat" alt="HCMUT"/>
 </p>
@@ -46,17 +45,12 @@ Engineer_t me = {
     <td><b>🔌 Embedded</b></td>
     <td>
       <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
-      <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32CubeIDE"/>
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+      <img src="https://img.shields.io/badge/Nordic%20nRF52-00A9CE?style=for-the-badge&logo=nordicsemiconductor&logoColor=white" alt="Nordic nRF52"/>
+      <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+      <br/>
       <img src="https://img.shields.io/badge/FreeRTOS-2E7D32?style=for-the-badge" alt="FreeRTOS"/>
-      <img src="https://img.shields.io/badge/CAN%20%7C%20UART%20%7C%20SPI%20%7C%20I2C-455A64?style=for-the-badge" alt="Protocols"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>📡 Sensors & RF</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/UWB%20DW1000%20%2F%20DWM1001-6A1B9A?style=for-the-badge" alt="UWB"/>
-      <img src="https://img.shields.io/badge/IMU%20%7C%20Baro%20%7C%20Mag-6A1B9A?style=for-the-badge" alt="IMU"/>
-      <img src="https://img.shields.io/badge/RFID-6A1B9A?style=for-the-badge" alt="RFID"/>
+      <img src="https://img.shields.io/badge/Zephyr%20RTOS-7929D2?style=for-the-badge" alt="Zephyr RTOS"/>
     </td>
   </tr>
   <tr>
@@ -96,7 +90,7 @@ Engineer_t me = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TuanLinh05&theme=tokyonight" width="100%" alt="Profile details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TuanLinh05&theme=tokyonight&v=3" width="100%" alt="Profile details"/>
 </p>
 
 <p align="center">
