@@ -125,12 +125,6 @@ Engineer_t me = {
   </tr>
 </table>
 
-### 📫 Contact
-
-<p align="center">
-  <a href="mailto:vutlinh.work@gmail.com"><img src="https://img.shields.io/badge/Email-vutlinh.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
 <!-- ================= FOOTER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
