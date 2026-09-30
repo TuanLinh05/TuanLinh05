@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/TuanLinh05">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=560&lines=Hi+everyone+%F0%9F%91%8B+I'm+Vu+Tuan+Linh;Student+%40+HCM+University+of+Technology;Embedded+Systems+%7C+STM32+%7C+FreeRTOS;PCB+Design+%7C+Altium+%7C+KiCad;Robotics+%7C+ROS+2+%7C+Webots" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=560&lines=Hi+everyone+%F0%9F%91%8B+I'm+Vu+Tuan+Linh;Student+%40+HCM+University+of+Technology;Embedded+Systems+%7C+STM32+%7C+FreeRTOS;Drones+%7C+PX4+%7C+ArduPilot;PCB+Design+%7C+Altium+%7C+KiCad;Robotics+%7C+ROS+2+%7C+Webots" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -124,6 +124,12 @@ Engineer_t me = {
     </td>
   </tr>
 </table>
+
+### 📫 Contact
+
+<p align="center">
+  <a href="mailto:vutlinh.work@gmail.com"><img src="https://img.shields.io/badge/Email-vutlinh.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
