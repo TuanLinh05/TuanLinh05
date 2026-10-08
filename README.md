@@ -75,12 +75,12 @@ Engineer_t me = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile-summary-card-output/nord_dark/0-profile-details.svg" width="100%" alt="Profile details"/>
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile details"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuanLinh05&show_icons=true&theme=nord&hide_border=true&hide_rank=true&count_private=true" height="170" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanLinh05&layout=compact&theme=nord&hide_border=true&langs_count=6&hide=makefile,typescript,assembly,cmake,html,css,javascript" height="170" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TuanLinh05&show_icons=true&title_color=0366d6&text_color=77909c&icon_color=8b949e&bg_color=0d1117&hide_border=true&hide_rank=true&count_private=true" height="170" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanLinh05&layout=compact&title_color=0366d6&text_color=77909c&bg_color=0d1117&hide_border=true&langs_count=6&hide=makefile,typescript,assembly,cmake,html,css,javascript" height="170" alt="Top languages"/>
 </p>
 
 <p align="center">
